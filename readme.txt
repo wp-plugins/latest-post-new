@@ -1,11 +1,10 @@
 === LATEST-POST-NEW  ===
 Contributors: all_is_well
 Donate link: https://flattr.com/profile/all_is_well
-Tags: Recent latest-post-new
+Tags: recent post,latest post,recent articles, latest articles, post widget
 Requires at least: 3.3
 Tested up to: 3.5.1
 Stable tag: 1.0
-Tags: recent post,lates post,recent articles, latest articles, post widget
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
