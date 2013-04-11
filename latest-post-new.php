@@ -2,7 +2,7 @@
 /*
 Plugin Name: latest-post-new 
 Plugin URI: http://profiles.wordpress.org/all_is_well
-Description: LATEST-POST-NEW  
+Description: Latest-post-new  
 version:1.0
 Author: All Is Well
 Author URI: http://profiles.wordpress.org/all_is_well
