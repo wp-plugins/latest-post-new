@@ -2,7 +2,7 @@
 /*
 Plugin Name: latest-post-new 
 Plugin URI: http://profiles.wordpress.org/all_is_well
-Description: Recent Post Reloaded 
+Description: Select the available post type and add the options, so this plugin will Displays the latest post from that post type.
 version:1.0
 Author: All Is Well
 Author URI: http://profiles.wordpress.org/all_is_well
