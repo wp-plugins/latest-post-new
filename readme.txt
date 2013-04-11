@@ -15,6 +15,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Using  Recent post widget  You can select the post type from available custom post type or post and display it in side bar. 
 options included  here
+
     1- Select the Thumbnail
     2- Custom CSS classes
     3- Thumbnail Display or not 
@@ -27,8 +28,8 @@ options included  here
 == Installation ==
 
     1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-    2. Activate the plugin through the 'Plugins' menu in WordPress
-    3. Drag and drop the widget in to the side bar and 
+       Activate the plugin through the 'Plugins' menu in WordPress
+    2. Drag and drop the widget in to the side bar and 
 
 == Frequently asked questions ==
 
