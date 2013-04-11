@@ -5,11 +5,11 @@ Tags: Recent latest-post-new
 Requires at least: 3.3
 Tested up to: 3.5.1
 Stable tag: 1.0
-Stable tag: recent post,lates post,recent articles, latest articles, post widget
+Tags: recent post,lates post,recent articles, latest articles, post widget
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-
+Latest post new 
 
 == Description ==
 
@@ -27,7 +27,7 @@ options included  here
 
 == Installation ==
 
-    1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+    1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory,
        Activate the plugin through the 'Plugins' menu in WordPress
     2. Drag and drop the widget in to the side bar and 
 
