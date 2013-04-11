@@ -1,4 +1,4 @@
-=== Recent Post Reloaded  ===
+=== LATEST-POST-NEW  ===
 Contributors: all_is_well
 Donate link: https://flattr.com/profile/all_is_well
 Tags: Recent latest-post-new
@@ -15,20 +15,20 @@ latest-post-new
 
 Using  Recent post widget  You can select the post type from available custom post type or post and display it in side bar. 
 options included  here
-1- Select the Thumbnail
-2- Custom CSS classes
-3- Thumbnail Display or not 
-4- width and height of the thumbnail
-5- Display comment number
-6- Display the date of the post
-7- Weather to display read more or not
-5- Change the read more text
+	1- Select the Thumbnail
+	2- Custom CSS classes
+	3- Thumbnail Display or not 
+	4- width and height of the thumbnail
+	5- Display comment number
+	6- Display the date of the post
+	7- Weather to display read more or not
+	5- Change the read more text
 
 == Installation ==
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Drag and drop the widget in to the side bar and 
+	1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+	2. Activate the plugin through the 'Plugins' menu in WordPress
+	3. Drag and drop the widget in to the side bar and 
 
 == Frequently asked questions ==
 
@@ -38,8 +38,8 @@ An answer to that question.
 
 == Screenshots ==
 
-1. Activate the plugin 
-2. Drag and use
+	1. Activate the plugin 
+	2. Drag and use
 
 == Changelog ==
 
