@@ -16,14 +16,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Using  Recent post widget  You can select the post type from available custom post type or post and display it in side bar. 
 options included  here
 
-    1- Select the Thumbnail
-    2- Custom CSS classes
-    3- Thumbnail Display or not 
-    4- width and height of the thumbnail
-    5- Display comment number
-    6- Display the date of the post
-    7- Weather to display read more or not
-    5- Change the read more text
+    1. Select the Thumbnail
+    2.  Custom CSS classes
+    3. Thumbnail Display or not 
+    4. width and height of the thumbnail
+    5. Display comment number
+    6. Display the date of the post
+    7. Weather to display read more or not
+    5. Change the read more text
 
 == Installation ==
 
